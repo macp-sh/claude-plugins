@@ -1,0 +1,10 @@
+# Development notes: kept locally, not published
+claude/
+
+# Claude Code's per-project settings
+.claude/
+
+# OS or editor files
+.DS_Store
+.vscode/
+.idea/
