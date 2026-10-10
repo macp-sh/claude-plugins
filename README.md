@@ -4,7 +4,7 @@ A Claude Code plugin marketplace. See [Install plugins](https://code.claude.com/
 
 | Plugin | What it does | Install (inside a Claude Code session) |
 | :- | :- | :- |
-| [md-scrub](https://github.com/macp-sh/md-scrub) | Checks every Markdown file Claude writes and removes content you've ruled out, such as third-party legal terms | `/plugin install md-scrub --marketplace macp-sh/claude-plugins` |
+| [md-scrub](https://github.com/macp-sh/md-scrub) | Enforces what Claude writes in Markdown | `/plugin install md-scrub --marketplace macp-sh/claude-plugins` |
 
 The install command adds this marketplace the first time. After that, install by name (`/plugin install <name>@macp-sh`) or browse in `/plugin` under Discover.
 
